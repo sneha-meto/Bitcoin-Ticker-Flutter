@@ -1,8 +1,8 @@
 import 'package:http/http.dart' as http;
 import 'dart:convert';
+import 'sensitive.dart';
 
-const apiKey =
-    '365c178c080f70c4860c28927f02226e550d9154af9e8d5178013eb2c521d90f';
+
 
 const List<String> currenciesList = [
   'AUD',
